@@ -1,5 +1,5 @@
 # CourtCounter
-My version of a simple court counter app as taught at Udacity.com
+My version of a simple court counter Android app as taught at Udacity.com
 
 ### Without Value
 ![screenshot_20180320-230033](https://user-images.githubusercontent.com/788306/37685276-3695c63c-2c93-11e8-82d8-4d4161757beb.png)
